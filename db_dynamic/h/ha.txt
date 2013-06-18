@@ -4,3 +4,4 @@ haltespule
 hauptkeule
 hammelkeule
 hauptschule
+hauptboden

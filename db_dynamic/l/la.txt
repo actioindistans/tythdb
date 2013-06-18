@@ -3,3 +3,4 @@ lastspule
 lacksäule
 lammkeule
 lauge
+laserdioden
