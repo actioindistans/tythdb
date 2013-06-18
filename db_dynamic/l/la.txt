@@ -2,3 +2,4 @@ ladespule
 lastspule
 lacksäule
 lammkeule
+lauge
