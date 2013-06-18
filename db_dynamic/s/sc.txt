@@ -3,3 +3,6 @@ schwingspule
 schleiereule
 schallboden
 schrägboden
+scheiten
+schreiten
+schulreiten

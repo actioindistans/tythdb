@@ -3,3 +3,4 @@ sprössling
 spule
 spiralspule
 sperbereule
+spreiten
