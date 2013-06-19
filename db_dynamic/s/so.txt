@@ -2391,3 +2391,4 @@ soldatenfamilie
 sozialkürzungen
 sozialwohnungsunternehmen
 sondersparkonto
+sondenspule

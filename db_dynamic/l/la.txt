@@ -3787,3 +3787,6 @@ latscht
 landesweites
 langgezogenen
 lautstärkenpräferenz
+ladespule
+lastspule
+lacksäule

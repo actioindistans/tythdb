@@ -5320,3 +5320,4 @@ spezialboot
 spiegelsymmetrische
 spielsprache
 sprachraums
+spiralspule

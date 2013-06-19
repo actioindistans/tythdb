@@ -6688,3 +6688,4 @@ restrukturierte
 regenwassergewinnung
 reservekorps
 reaktionären
+relaisspule
