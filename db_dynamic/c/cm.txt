@@ -1,0 +1,4 @@
+cmyk
+cmdr
+cmos
+cmws
