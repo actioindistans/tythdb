@@ -2392,3 +2392,4 @@ sozialkürzungen
 sozialwohnungsunternehmen
 sondersparkonto
 sondenspule
+sommergetreide

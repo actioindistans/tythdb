@@ -6689,3 +6689,4 @@ regenwassergewinnung
 reservekorps
 reaktionären
 relaisspule
+reifweide
