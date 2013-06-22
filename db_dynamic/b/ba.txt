@@ -4644,3 +4644,4 @@ battalions
 baten
 baule
 basaltsäule
+balligverzahnung

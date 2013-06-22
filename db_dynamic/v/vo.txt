@@ -4312,3 +4312,4 @@ vorausahnt
 vorwegnimmt
 vorzog
 vorherzusagen
+vornan
